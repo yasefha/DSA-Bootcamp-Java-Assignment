@@ -6,7 +6,7 @@
 ### Easy
 1. [X] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/6322201/solution)
 2. [X] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/6323076/95-time-complexity-solution-by-yasefha-az64)
-3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+3. [X] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/solutions/6323120/my-basic-solution-by-yasefha-ebjj)
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
