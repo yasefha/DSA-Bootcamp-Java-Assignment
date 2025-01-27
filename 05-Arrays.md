@@ -16,7 +16,7 @@
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 12. [x] [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/6327275/0ms-time-complexity-solution-by-yasefha-skaw/)
-13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+13. [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/solutions/6333722/my-easy-solution-by-yasefha-ly42/)
 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
