@@ -20,7 +20,7 @@
 14. [X] [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/solutions/6334838/solution-by-yasefha-8xk3/)
 15. [x] [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/solutions/6335014/solution-by-yasefha-8wim/)
 16. [x] [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solutions/6335117/solution-by-yasefha-rcyf/)
-17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+17. [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/6335209/solution-by-yasefha-i13t/)
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
