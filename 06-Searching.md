@@ -8,7 +8,7 @@
 
 ## Easy
 - [x] [Square Root](https://leetcode.com/problems/sqrtx/solutions/6348349/simple-solution-by-yasefha-pp0r/)
-- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [x] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/6357629/solution-by-yasefha-urus/)
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
