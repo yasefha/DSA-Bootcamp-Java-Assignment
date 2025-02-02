@@ -1,8 +1,8 @@
 # [Video Link](https://youtu.be/vvanI8NRlSI)
 
-1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://github.com/yasefha/DSA-Bootcamp-Java-Assignment/blob/main/Code/04-function/FindMinMax.java)
+1. [x] [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://github.com/yasefha/DSA-Bootcamp-Java-Assignment/blob/main/Code/04-function/FindMinMax.java)
 
-2. [Define a program to find out whether a given number is even or odd.](https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/)
+2. [x] [Define a program to find out whether a given number is even or odd.](Code/04-function/OddOrEven.java)
 
 3. [A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.](https://www.efaculty.in/java-programs/voting-age-program-in-java/)
 
