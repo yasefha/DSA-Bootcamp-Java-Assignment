@@ -11,7 +11,7 @@
 - [x] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/6357629/solution/)
 - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/solutions/6361647/easy-solution/)
 - [x] [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/6363194/solution/)
-- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+- [x] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/6368821/solution/)
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
