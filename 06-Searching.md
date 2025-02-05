@@ -13,7 +13,7 @@
 - [x] [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/6363194/solution/)
 - [x] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/6368821/solution/)
 - [x] [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/solutions/6373666/my-solution/)
-- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/6379765/my-solution/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
