@@ -16,7 +16,7 @@
 - [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/6379765/my-solution/)
 - [x] [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/solutions/6386753/my-solution/)
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/6388156/my-solution/)
-- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/6391426/solution/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
